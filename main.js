@@ -23,7 +23,6 @@ function compareNumbers(a, b) {
 };
 
 const inRange = (array, maxScore) => array.every((element) => element >= 0 && element <= maxScore); 
-const pop = (array) => array.pop()
 /* MAIN FUNCTIONS */
 
 // function scoreSorter(array, maxScore) {
